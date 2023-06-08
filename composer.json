@@ -1,5 +1,5 @@
 {
-    "name": "volcengine/volc-sdk-php",
+    "name": "tyk-volcengine/volc-sdk-php",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
